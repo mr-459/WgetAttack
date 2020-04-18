@@ -1,6 +1,6 @@
 # WgetAttack
 
-A little tool to attack a website using wget
+A little useful tool to attack a website using wget
 
 you can run this at linux by:
 
